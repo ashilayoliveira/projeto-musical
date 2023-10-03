@@ -1,4 +1,4 @@
-# projeto-musical
+# Protótipo Musical
 
 Interface do meu APP de música. Feito pelo FIGMA.
 
